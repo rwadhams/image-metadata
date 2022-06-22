@@ -1,0 +1,13 @@
+/.gradle/
+/.settings/
+/build/
+/bin/
+/data/
+/out/*
+!/out/placeholder.txt
+.classpath
+.project
+/temp/
+/exportLibs/
+/bat/
+application_instructions.txt
